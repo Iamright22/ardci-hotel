@@ -1444,19 +1444,21 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="dining-title">
-                        <h2 class="music-lounge-title">Music Lounge B</h2>
-                        <p class="sub-music-modal">(Php 4,000.00)</p>
+                        <h2 class="music-lounge-title">Elvis Presley & <br /> The Beatles</h2>
+                        <p class="sub-music-modal mb-3">(Php 4,000.00)</p>
                     </div>
                     <div class="col-md-12">
                         <div class="eve-img-contain">
-                            <a href="assets/image/ml-b.jpg" class="musicLoungeB">
-                                <img src="assets/image/ml-b.jpg" class="img-fluid d-block mx-auto func-modal-img" alt="music lounge B">
+                            <a href="assets/image/elvis-lounge.jpg" class="musicLoungeB">
+                                <img src="assets/image/elvis-lounge.jpg" class="img-fluid d-block mx-auto func-modal-img" alt="music lounge B">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-12">
                         <div class="eve-det-contain">
-                            <p class="ml-b-details">15 pax | 3 hours | Consumable</p>
+                            <li class="func-modal-li lh-base">15 pax</li>
+                            <li class="func-modal-li lh-base">Three (3) hours</li>
+                            <li class="func-modal-li lh-base">Consumable</li>
                         </div>
                     </div>
                 </div>
@@ -1488,7 +1490,9 @@
                     </div>
                     <div class="col-md-12">
                         <div class="eve-det-contain">
-                            <p class="ml-b-details">8 to 10 pax | 3 hours | Consumable</p>
+                            <li class="func-modal-li">8-10 pax</li>
+                            <li class="func-modal-li">Three (3) hours</li>
+                            <li class="func-modal-li">Consumable</li>
                         </div>
                     </div>
                 </div>
@@ -1508,7 +1512,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="dining-title">
-                        <h2 class="music-lounge-title">John Lennon Lounge</h2>
+                        <h2 class="music-lounge-title">John Lennon</h2>
                         <p class="sub-music-modal">(Php 6,500.00)</p>
                     </div>
                     <div class="col-md-12">
@@ -1522,12 +1526,10 @@
                     <div class="col-md-12">
                         <div class="eve-det-contain">
                             <li class="func-modal-li">30 pax</li>
-                            <li class="func-modal-li">5 hours</li>
-                            
-                            <p class="inclusion">Inclusions:</p>
-                            <li class="func-modal-li">Food Package</li>
-                            <li class="func-modal-li">Three (3) buckets of beer</li>
-                            <li class="func-modal-li">Four (4) orders of pulutan</li>
+                            <li class="func-modal-li">₱5,500.00 Consumable</li>
+                            <li class="func-modal-li">₱1,000.00 Venue and electricity charge</li>
+                            <li class="func-modal-li">4-hour usage</li>
+                            <li class="func-modal-li">Extension rate of ₱500.00 per hour</li>
                         </div>
                     </div>
                 </div>
@@ -1547,7 +1549,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="dining-title">
-                        <h2 class="music-lounge-title">Rihanna & Bob Lounge</h2>
+                        <h2 class="music-lounge-title">Rihanna & Bob Marley</h2>
                         <p class="sub-music-modal">(Php 5,500.00)</p>
                     </div>
                     <div class="col-md-12">
@@ -1561,12 +1563,10 @@
                     <div class="col-md-12">
                         <div class="eve-det-contain">
                             <li class="func-modal-li">20-25 pax</li>
-                            <li class="func-modal-li">4 hours</li>
-                            
-                            <p class="inclusion">Inclusions:</p>
-                            <li class="func-modal-li">Food Package</li>
-                            <li class="func-modal-li">Three (3) buckets of beer</li>
-                            <li class="func-modal-li">Four (4) orders of pulutan</li>
+                            <li class="func-modal-li">₱4,500.00 Consumable</li>
+                            <li class="func-modal-li">₱1,000.00 Venue and electricity charge</li>
+                            <li class="func-modal-li">3-hour usage</li>
+                            <li class="func-modal-li">Extension rate of ₱500.00 per hour</li>
                         </div>
                     </div>
                 </div>
@@ -1585,7 +1585,7 @@
             <div class="modal-body">
                 <div class="row">
                     <div class="dining-title">
-                        <h2 class="music-lounge-title">Madonna & Fred Lounge</h2>
+                        <h2 class="music-lounge-title">Madonna</h2>
                         <p class="sub-music-modal">(Php 4,500.00)</p>
                     </div>
                     <div class="col-md-12">
@@ -1599,12 +1599,10 @@
                     <div class="col-md-12">
                         <div class="eve-det-contain">
                             <li class="func-modal-li">10-15 pax</li>
-                            <li class="func-modal-li">3 hours</li>
-                            
-                            <p class="inclusion">Inclusions:</p>
-                            <li class="func-modal-li">Food Package</li>
-                            <li class="func-modal-li">Two (2) buckets of beer</li>
-                            <li class="func-modal-li">Two (2) orders of pulutan</li>
+                            <li class="func-modal-li">₱3,500.00 Consumable</li>
+                            <li class="func-modal-li">₱1,000.00 Venue and electricity charge</li>
+                            <li class="func-modal-li">3-hour usage</li>
+                            <li class="func-modal-li">Extension rate of ₱500.00 per hour</li>
                         </div>
                     </div>
                 </div>

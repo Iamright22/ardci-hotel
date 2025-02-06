@@ -115,7 +115,7 @@
                     Music Lounge @ Building 1
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="musicL1Drop">
-                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#MusicLoungeBModal">Music Lounge B</a></li>
+                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#MusicLoungeBModal">Elvis Presley & The Beatles</a></li>
                       <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#MusicLoungeCModal">Music Lounge C</a></li>
                   </ul>
                 </li>
@@ -124,9 +124,9 @@
                     Music Lounge @ Building 2
                   </a>
                   <ul class="dropdown-menu" aria-labelledby="musicL2Drop">
-                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#jhonLenonModal">John Lennon Lounge</a></li>
-                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#rihannaModal">Rihanna & Bob Lounge</a></li>
-                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#madonnaModal">Madonna & Fred Lounge</a></li>
+                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#jhonLenonModal">John Lennon</a></li>
+                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#rihannaModal">Rihanna & Bob Marley</a></li>
+                      <li><a class="dropdown-item sub-sub-drop-down" href="#" data-bs-toggle="modal" data-bs-target="#madonnaModal">Madonna</a></li>
                   </ul>
                 </li>
               </ul>
@@ -154,3 +154,6 @@
     </div>
   </div>
 </nav>
+
+<!-- include modal -->
+<?php include 'includes/modal.php'?>
